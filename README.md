@@ -241,7 +241,7 @@ high
 Base URL
 
 ```
-http://localhost:5000/api/tasks
+https://colledge-connect-assignment-backend.onrender.com/api/tasks
 ```
 
 ---
@@ -502,7 +502,7 @@ for cleaner API responses.
 Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Harsh-Kumar-Mishra2006/CollEdge_Connect-Assignment_backend>
 ```
 
 Navigate to backend
@@ -515,22 +515,6 @@ Install dependencies
 
 ```bash
 npm install
-```
-
----
-
-# Environment Variables
-
-Create a `.env` file inside the backend folder.
-
-```
-PORT=5000
-
-MONGODB_URI=your_mongodb_connection_string
-
-NODE_ENV=development
-
-FRONTEND_URL=http://localhost:5173
 ```
 
 ---
@@ -552,7 +536,7 @@ npm start
 Server
 
 ```
-http://localhost:5000
+https://colledge-connect-assignment-backend.onrender.com
 ```
 
 ---
